@@ -1,8 +1,11 @@
-# Desafio de Projeto Copilot
+# Desafio Copilot
 
+Este repositório contém um projeto desenvolvido como parte de um desafio para demonstrar a utilização do GitHub Copilot para análise de imagens e descrição das mesmas em forma de texto.
 
-1. Crie um novo repositório no github com um nome a sua preferência
-2. Crie uma pasta chamada 'inputs' e salve as imagens que você utilizou
-3. Crie uma pasta chamado 'output' e salve os resultados de reconhecimento de texto nessas imagens
-4. Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
-5. Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
+## Estrutura do Projeto
+
+- **inputs/**: Contém as imagens utilizadas para o reconhecimento de texto.
+- **output/**: Armazena os resultados do processo de reconhecimento de texto aplicado às imagens da pasta `inputs`.
+
+![](./output/chat1.png)
+![](./output/chat2.png)
