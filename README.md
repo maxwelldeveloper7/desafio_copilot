@@ -1,6 +1,6 @@
 # Desafio Copilot
 
-Este repositório contém um projeto desenvolvido como parte de um desafio para demonstrar a utilização do GitHub Copilot para análise de imagens e descrição das mesmas em forma de texto.
+Este repositório contém um projeto desenvolvido como parte de um desafio para demonstrar a utilização do Copilot para análise de imagens e descrição das mesmas em forma de texto.
 
 ## Estrutura do Projeto
 
